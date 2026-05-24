@@ -140,12 +140,6 @@ If you fit one of these categories, please reach out.
 
 ---
 
-## Get in touch
-
--  **Spec access / audit / collaboration** — [your-email]
--  **Security disclosure** — [your-pgp-key-fingerprint]
-
----
 
 <div align="center">
 
