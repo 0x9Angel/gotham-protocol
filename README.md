@@ -1,4 +1,3 @@
-📄 README pour github.com/0x9Angel/gotham-protocol (public)
 
 <div align="center">
 
